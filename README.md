@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sindikatskiy/Pixel-App/releases/download/v0.11.0/Pixel-APP-Setup-0.11.0.exe"><img src="https://img.shields.io/badge/Скачать_для_Windows-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Скачать Pixel App для Windows"></a>
+  <a href="https://github.com/sindikatskiy/Pixel-App/releases/latest/download/Pixel-APP-Setup.exe"><img src="https://img.shields.io/badge/Скачать_для_Windows-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Скачать Pixel App для Windows"></a>
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 | Для вашего компьютера | Установочный файл |
 | :--- | :--- |
-| **Windows 10/11 · 64 бит** | [**Скачать Pixel-APP-Setup-0.11.0.exe**](https://github.com/sindikatskiy/Pixel-App/releases/download/v0.11.0/Pixel-APP-Setup-0.11.0.exe) |
+| **Windows 10/11 · 64 бит** | [**Скачать Pixel-APP-Setup.exe**](https://github.com/sindikatskiy/Pixel-App/releases/latest/download/Pixel-APP-Setup.exe) |
 
-**Версия 0.11.0 · около 171 МБ.** Скачайте EXE, запустите его и следуйте шагам установщика.
+**Всегда последняя стабильная версия.** Скачайте EXE, запустите его и следуйте шагам установщика.
 
 Новые выпуски и список изменений — на странице [**Releases**](https://github.com/sindikatskiy/Pixel-App/releases/latest).
 
@@ -88,7 +88,7 @@ Pixel App устанавливает само приложение. Восста
 <details>
 <summary><b>Какой файл скачивать на странице выпуска?</b></summary>
 
-Выберите **Pixel-APP-Setup-0.11.0.exe** для версии 0.11.0. Это установщик программы. Файл **update-stable.json** используется обновлениями, а архивы **Source code** не нужны для обычной установки.
+Выберите **Pixel-APP-Setup.exe** или установщик с номером нужной версии. Это установщик программы. Файл **update-stable.json** используется обновлениями, а архивы **Source code** не нужны для обычной установки.
 
 </details>
 
@@ -102,13 +102,7 @@ Pixel App устанавливает само приложение. Восста
 <details>
 <summary><b>Как проверить скачанный установщик?</b></summary>
 
-SHA-256 файла **Pixel-APP-Setup-0.11.0.exe**:
-
-```text
-b928d27e8761f6c1d64144d84a1c717eaa73907f6a7ce4c974d9e5096e0ed3aa
-```
-
-Эта сумма относится только к версии **0.11.0**.
+Контрольные суммы установщиков последней стабильной версии доступны в файле [**SHA256SUMS.txt**](https://github.com/sindikatskiy/Pixel-App/releases/latest/download/SHA256SUMS.txt). Сравните SHA-256 скачанного EXE с записью для его имени в этом файле.
 
 </details>
 
@@ -123,7 +117,7 @@ b928d27e8761f6c1d64144d84a1c717eaa73907f6a7ce4c974d9e5096e0ed3aa
 ---
 
 <p align="center">
-  <b><a href="https://github.com/sindikatskiy/Pixel-App/releases/download/v0.11.0/Pixel-APP-Setup-0.11.0.exe">Скачать Pixel App</a></b> ·
+  <b><a href="https://github.com/sindikatskiy/Pixel-App/releases/latest/download/Pixel-APP-Setup.exe">Скачать Pixel App</a></b> ·
   <a href="https://github.com/sindikatskiy/Pixel-App/releases/latest">Что нового</a> ·
   <a href="https://t.me/sindikatskiy">Помощь</a>
 </p>
