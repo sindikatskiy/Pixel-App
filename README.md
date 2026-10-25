@@ -114,7 +114,7 @@ b928d27e8761f6c1d64144d84a1c717eaa73907f6a7ce4c974d9e5096e0ed3aa
 
 ## Если нужна помощь
 
-[**Сообщите о проблеме**](https://github.com/sindikatskiy/Pixel-App/issues) — укажите версию Pixel App и Windows, что вы делали и какая ошибка появилась. Можно приложить результат действия **«Скопировать диагностику»** из приложения.
+[**Сообщите о проблеме**](https://t.me/sindikatskiy) — укажите версию Pixel App и Windows, что вы делали и какая ошибка появилась. Можно приложить результат действия **«Скопировать диагностику»** из приложения.
 
 Не публикуйте пароли и коды подтверждения Apple Account.
 
@@ -125,5 +125,5 @@ b928d27e8761f6c1d64144d84a1c717eaa73907f6a7ce4c974d9e5096e0ed3aa
 <p align="center">
   <b><a href="https://github.com/sindikatskiy/Pixel-App/releases/download/v0.11.0/Pixel-APP-Setup-0.11.0.exe">Скачать Pixel App</a></b> ·
   <a href="https://github.com/sindikatskiy/Pixel-App/releases/latest">Что нового</a> ·
-  <a href="https://github.com/sindikatskiy/Pixel-App/issues">Помощь</a>
+  <a href="https://t.me/sindikatskiy">Помощь</a>
 </p>
